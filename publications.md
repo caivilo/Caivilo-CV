@@ -1,23 +1,16 @@
 ---
 layout: default
-title: Publications
+title: Publications and Works in Progress
 permalink: /publications/
 ---
+# Publications & Works in Progress
 
-## Peer-Reviewed
+## Works in progress
 
-N/A
+- *Communicating Digital Humanities Work in Academic Libraries: A Multi-Institution Rhetorical Analysis* — independent research project in progress.
 
-## Conference Papers
+## Independent publishing
 
-N/A
+- *The Lesbian Taxonomy Project* — ongoing digital zine and knowledge organization project. [Visit the project](https://tltp.page/).
 
-## Works in Progress
-- Coleman, O. (Forthcoming). 
-- Coleman, O. (Forthcoming, 2026). "Communicating Digital Humanities Work in Academic Libraries:
-A Multi-Institution Rhetorical Analysis."
-- Coleman, O. (Forthcoming).
-
-- ## Zines
-- "The Lesbian Taxonomy Project" (In Progress/Ongoing). Writer, Editor, and Illustrator. An interactive, online zine that has common terminology defined and hosted on one place on the internet. [Princeton, NJ & Harlem], NY: Self-published.
--
+*Peer-reviewed publications and conference presentations will be added when available.*

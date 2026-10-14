@@ -1,14 +1,10 @@
 ---
 layout: default
-title: Contact me!
+title: Contact
 permalink: /contact/
 ---
+# Contact
 
-## Need a hand with research?
+For professional and research inquiries, connect through [GitHub](https://github.com/caivilo) or [LinkedIn](https://linkedin.com/in/caivilo).
 
-Hi there! Are you interested in working on a project together? Do you need a quote for a project? If I don't respond within 5 business days, just nudge me again – your email might've gotten lost.
-
-I can be reached at
-
-
-
+*An email address can be added once you've confirmed which address you want to publish.*
