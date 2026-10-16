@@ -1,6 +1,6 @@
 # caivilo.co — Jekyll redesign
 
-This is a redesigned copy of the uploaded Jekyll repository, retaining its project collection, original detailed CV file (`cv/cv.md`), and existing collection pages.
+This is a redesigned copy of my original professional website repository, retaining its project collection, original detailed CV file (`cv/cv.md`), and existing collection pages.
 
 ## Deploy
 1. Back up the live GitHub repository before changing it.
