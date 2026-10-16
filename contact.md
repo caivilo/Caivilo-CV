@@ -7,4 +7,4 @@ permalink: /contact/
 
 For professional and research inquiries, connect through [GitHub](https://github.com/caivilo) or [LinkedIn](https://linkedin.com/in/caivilo).
 
-*An email address can be added once you've confirmed which address you want to publish.*
+You can send me an email at [ocoleman (at) alumni.albany.edu](ocoleman@alumni.albany.edu) or []()
