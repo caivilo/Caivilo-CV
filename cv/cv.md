@@ -15,7 +15,7 @@ permalink:
     </ul>
   </p>
 
- <h3> State University of New York | Masters of Science, Data Science and Analytics () (09.01.26 -05.15.2028)</h3>
+ <h3> University of Saint Andrews | Masters of Science, Global Digital Humanities () (09.14.26 -05.20.2029)</h3>
   <p>In anticipation of becoming a more STEM focused academic librarian, I decided to pursue a degree in data science & analytics to combine my interests in digital humanities, mathematrtics, and together. 
         <ul>
       <li>Create libguides: https://libguides.library.albany.edu/c.php?g=1472388&p=10960797</li>
