@@ -1,140 +1,33 @@
-```markdown
 ---
 layout: default
-title: Curriculum Vitae
+title: CV
 permalink: /cv/
 ---
+<div class="eyebrow">Experience & education</div>
+# Curriculum Vitae
 
-<div class="cv-header">
+A concise overview of my professional and academic background.
 
-# Olivia Coleman
+## Professional experience
 
-**Information Scientist • Librarian • Data Researcher**
+**Princeton University Library** — Supervisor, Library Curriculum Support Services (2025–present)
 
-Harlem, New York  
-they/she  
+**Lewisboro Library** — Weekend Public Reference Librarian (2026–present)
 
-[GitHub](https://github.com/caivilo) •
-[LinkedIn](https://linkedin.com/in/caivilo)
+**Purchase College, SUNY** — Head of Circulation Services (2024–2025)
 
-</div>
-
----
+**Columbia University Libraries** — Access Services Coordinator and Library Assistant roles
 
 ## Education
 
-**M.S. Information Science**  
-University at Albany, SUNY (2024–2026)
+**University of St Andrews** — MSc Global Digital Humanities (in progress)
 
-**M.S. Data Science & Analytics** *(anticipated)*  
-SUNY Polytechnic Institute (2026–2028)
+**University at Albany, SUNY** — MS Information Science (2026)
 
-**B.A. Mathematics**  
-Colorado College (2021)  
-Minors: Russian & Eurasian Studies, Film Studies
+**Colorado College** — BA Applied Mathematics (2021); minors in Russian & Eurasian Studies and Film Studies
 
----
+## Areas of practice
 
-<div class="cv-grid">
+Electronic resources · Library systems · Metadata and discovery · Digital scholarship · Research support · Supervision
 
-<div>
-
-## Librarianship & Humanities
-
-### Academic Appointments
-
-**Head of Circulation Services**  
-Purchase College, SUNY (2024–Present)
-
-**Library Curriculum Support Services**  
-Princeton University Libraries
-
-**Access Services Coordinator**  
-Avery Architectural & Fine Arts Library, Columbia University
-
-**Library Assistant V**  
-Science & Engineering Library, Columbia University
-
----
-
-## Research Interests
-
-- Information ethics
-- Metadata infrastructures
-- Environmental law
-- Prison reform information systems
-- Digital archives
-- Access services & circulation systems
-
----
-
-## Publications & Scholarship
-
-**Master’s Thesis (In Progress)**  
-*Information Infrastructures in Environmental Legal Systems*
-
-Conference presentations and publications forthcoming.
-
----
-
-## Teaching & Outreach
-
-- Information literacy support
-- Research consultation
-- User-centered library services
-- Instructional support
-
-</div>
-
-<div>
-
-## Data Science & Technical Practice
-
-### Technical Skills
-
-- Python
-- SQL
-- Pandas
-- scikit-learn
-- Tableau
-- Git/GitHub
-- HTML/CSS/JavaScript
-
----
-
-## Data Projects
-
-### Circulation Analytics Project
-Analyzed multi-year circulation trends using Python and SQL to identify collection usage patterns.
-
-### Metadata Visualization Research
-Explored metadata relationships and discoverability through network analysis techniques.
-
-### Research Infrastructure Studies
-Investigated institutional information workflows and data governance systems.
-
----
-
-## Methods
-
-- Data cleaning & normalization
-- Metadata analysis
-- Quantitative research methods
-- Information visualization
-- Research analytics
-- Computational humanities methods
-
----
-
-## Technical Interests
-
-- Digital humanities
-- Computational archival studies
-- Legal informatics
-- Data ethics
-- Information retrieval systems
-
-</div>
-
-</div>
-```
+*A detailed downloadable CV can be added after final review.*
