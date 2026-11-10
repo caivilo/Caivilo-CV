@@ -18,11 +18,14 @@ permalink:
  <h3> University of Saint Andrews | Masters of Science, Global Digital Humanities (09.14.26 -05.20.29)</h3>
   <p>In order to become a more well-rounded scholar and advisor for humanities-based research, I enrolled in the distance programme. Here I have begun to develop a foundation in data science and combine it with humanities research. 
         <ul>
-      <li>Create libguides: https://libguides.library.albany.edu/c.php?g=1472388&p=10960797</li>
-      <li>Create exhibitions and work with Omeka: https://libguides.library.albany.edu/c.php?g=1472388&p=10960797</li>
+      <li>Created a </li>
+      <li>Conducted research and worked on a research project that combines </li>
     </ul>
   </p>
 
+ <h3> Colorado College | Bachelor of Arts, Applied Mathematics (08.13.16 - 05.22.21)</h3>
+  <p>Undergraduate educational that built a foundation in the sciences and mathematics.
+  </p>
 
 </section>
 
@@ -55,20 +58,13 @@ My role includes contributing to adult collection development and cataloging (Ev
   </p>
 
  <h3>Katonah Village Library | Weekend Circulation Clerk (03.07.2025 - Present) </h3>
-  <p>
-        <ul>
-      <li></li>
-    </ul>
-  </p>
+  <p> Primarily my job responsibilities included assisting patrons (of all age groups) with checking items out, placing and pulling holds, locating materials, and managing the desk operations in bottom the adult section and childrne's room. Additionally, responsibilities included opening and closing the library, as well as maintaining the book drop. </p>
   
 
   <h3>Purchase College | Head of Circulation Services ( 06. 17. 24  - 04.29.25 )</h3>
   <p>
    As the Head of Circulation Services at Purchase College, I oversee all circulation functions, ensuring smooth daily operations and handling emergencies. I manage the work schedules for both student and professional staff, ensuring coverage during all operational hours. I supervise and evaluate a team of 3-5 professional staff and 15-20 student assistants, including hiring, training, and payroll management. I handle billing for library fines and resolve patron disputes, oversee statistical analysis for service improvements, and staff the circulation desk for 10-15 hours weekly. Additionally, I manage course reserves, update the library website, and participate in strategic planning and interdepartmental collaboration to support library.
-        <ul>
-      <li></li>
-    </ul>
-  </p>
+</p>
 
   <h3>Columbia University |  Access Services Coordinator (05.22.23 - 06.15.24)</h3>
   <p>
