@@ -29,3 +29,10 @@ jobs:
 
       - name: Build Jekyll website
         run: bundle exec jekyll build
+
+      - name: Upload website preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: botanical-website-preview
+          path: _site/
+
