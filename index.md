@@ -2,5 +2,15 @@
 layout: default
 title: Home
 ---
-<div class="hero"><div><div class="eyebrow">Welcome</div><h1>Olivia Coleman</h1><div class="subtitle">Librarian · Researcher · Digital Humanist</div><p>Hello! I'm Olivia, a librarian and researcher interested in how information is organized, described, accessed, and communicated.</p><p>At Princeton University Library, I supervise Library Curriculum Support Services and collaborate with colleagues on access to scholarly resources and information systems.</p><p>I earned an MS in Information Science from the University at Albany and am pursuing an MSc in Global Digital Humanities at the University of St Andrews.</p><p>My interests span digital scholarship, metadata, knowledge organization, linguistic diversity, and critical approaches to classification.</p><p><a href="/research/">Explore my research →</a></p></div><div class="portrait"><img src="/assets/images/headshot.jpg" alt="Portrait of Olivia Coleman" onerror="this.remove();this.parentElement.textContent='HEADSHOT COMING SOON'"></div></div>
+<div class="hero"><div><div class="eyebrow">Welcome</div><h1>Olivia Coleman</h1><div class="subtitle">Librarian · Researcher · Digital Humanist</div>
+
+<p>Hello! I'm Olivia, a librarian and researcher interested in how information is organized, described, accessed, and communicated.</p>
+
+<p>At Princeton University Library, I supervise Library Curriculum Support Services and collaborate with colleagues on access to scholarly resources and information systems.</p>
+
+<p>In 2026, I earned an MS in Information Science from the University at Albany and am currently pursuing an MSc in Global Digital Humanities at the University of St Andrews.</p>
+
+<p>My interests span digital scholarship, metadata, knowledge organization, linguistic diversity, and critical approaches to classification.</p><p><a href="/research/">Explore my research →</a></p></div><div class="portrait"><img src="/assets/images/headshot.jpg" alt="Portrait of Olivia Coleman" onerror="this.remove();this.parentElement.textContent='HEADSHOT COMING SOON'"></div></div>
+
+
 <section class="section"><div class="eyebrow">Selected work</div><div class="entry"><h3><a href="/research/">Communicating Digital Humanities Work in Academic Libraries</a></h3><p>A multi-institutional rhetorical analysis of academic library digital humanities communications.</p></div><div class="entry"><h3><a href="/projects/">The Lesbian Taxonomy Project</a></h3><p>An exploration of language, classification, and lesbian identities.</p></div><div class="entry"><h3><a href="/projects/">Occitan and Digital Representation</a></h3><p>An emerging digital humanities project investigating linguistic variation and metadata.</p></div></section>
